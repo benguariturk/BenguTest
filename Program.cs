@@ -10,7 +10,7 @@ namespace BenguTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bengu bizi diskoya gotur!");
+            Console.WriteLine("Tamam lan fakir!");
         }
     }
 }
