@@ -10,7 +10,7 @@ namespace BenguTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bengü Ahmet'e kız ayarlasın");
+            Console.WriteLine("Hadi len!");
         }
     }
 }
